@@ -1,0 +1,384 @@
+[1]	[1]
+[1]:	[1]:
+- 230pts	- 230pts
+- 230pts:	- 230pts:
+Quality	Calidad
+Quality:	Calidad:
+Defense	Defensa
+Defense:	Defensa:
+6	6
+6:	6:
+Bad Shot	Mal tiro
+Bad Shot:	Mal tiro:
+,	,
+,:	,:
+Furious	Furioso
+Furious:	Furioso:
+Warning Cry	Grito de advertencia
+Warning Cry:	Grito de advertencia:
+Regeneration	Regeneración
+Regeneration:	Regeneración:
+War Cry	Grito de guerra
+War Cry:	Grito de guerra:
+-	-
+-:	-:
+[10]	[10]
+[10]:	[10]:
+- 260pts	- 260pts
+- 260pts:	- 260pts:
+Scout	Explorador:
+Scout:	Explorador:
+Stealth	Sigilo
+Stealth:	Sigilo:
+[5]	[5]
+[5]:	[5]:
+1x Field Doctor	1x Médico de campo
+1x Field Doctor:	1x Médico de campo:
+AP:	AP:
+Targets get -X to Defense rolls when blocking hits.	Los objetivos obtienen -X a tiradas de Defensa al bloquear golpes.
+Targets get -X to Defense rolls when blocking hits.:	Los objetivos obtienen -X a tiradas de Defensa al bloquear golpes.:
+Ambush:	Emboscada:
+May be set aside before deployment. At the start of any round after the first, may be deployed anywhere over 9” away from enemy units. Players alternate in placing Ambush units, starting with the player that activates next. Units that deploy via Ambush can’t seize or contest objectives on the round they deploy.	Se puede reservar antes de la implementación. Al comienzo de cualquier ronda después de la primera, se puede desplegar en cualquier lugar a más de 9"de distancia de las unidades enemigas. Los jugadores alternan en la colocación de unidades de emboscada, comenzando con el jugador que se activa a continuación. Las unidades que se despliegan a través de Emboscada no pueden apoderarse ni disputar objetivos en la ronda que despliegan.
+May be set aside before deployment. At the start of any round after the first, may be deployed anywhere over 9” away from enemy units. Players alternate in placing Ambush units, starting with the player that activates next. Units that deploy via Ambush can’t seize or contest objectives on the round they deploy.:	Se puede reservar antes de la implementación. Al comienzo de cualquier ronda después de la primera, se puede desplegar en cualquier lugar a más de 9"de distancia de las unidades enemigas. Los jugadores alternan en la colocación de unidades de emboscada, comenzando con el jugador que se activa a continuación. Las unidades que se despliegan a través de Emboscada no pueden apoderarse ni disputar objetivos en la ronda que despliegan.:
+This model shoots at Quality 5+.	Este modelo dispara a Calidad 5+.
+This model shoots at Quality 5+.:	Este modelo dispara a Calidad 5+.:
+Gets +X to Defense rolls.	Obtiene +X a tiradas de Defensa.
+Gets +X to Defense rolls.:	Obtiene +X a tiradas de Defensa.:
+Field Doctor:	Médico de campo:
+This model and its unit get Regeneration.	Este modelo y su unidad reciben Regeneración.
+This model and its unit get Regeneration.:	Este modelo y su unidad reciben Regeneración.:
+When charging, unmodified rolls of 6 to hit in melee deal one extra hit (only the original hit counts as a 6 for special rules).	Al cargar, las tiradas no modificadas de 6 para golpear en cuerpo a cuerpo dan un golpe adicional (solo el golpe original cuenta como un 6 para reglas especiales).
+When charging, unmodified rolls of 6 to hit in melee deal one extra hit (only the original hit counts as a 6 for special rules).:	Al cargar, las tiradas no modificadas de 6 para golpear en cuerpo a cuerpo dan un golpe adicional (solo el golpe original cuenta como un 6 para reglas especiales).:
+Heroes with up to Tough(6) may deploy as part of one multi-model unit without another Hero. The hero may take morale tests on behalf of the unit, but must use the unit’s Defense until all other models have been killed.	Los héroes con hasta Tough(6) pueden desplegarse como parte de una unidad multimodelo sin otro héroe. El héroe puede hacer pruebas de moral en nombre de la unidad, pero debe usar la Defensa de la unidad hasta que todos los demás modelos hayan muerto.
+Heroes with up to Tough(6) may deploy as part of one multi-model unit without another Hero. The hero may take morale tests on behalf of the unit, but must use the unit’s Defense until all other models have been killed.:	Los héroes con hasta Tough(6) pueden desplegarse como parte de una unidad multimodelo sin otro héroe. El héroe puede hacer pruebas de moral en nombre de la unidad, pero debe usar la Defensa de la unidad hasta que todos los demás modelos hayan muerto.:
+Ignores Regeneration:	Ignora la regeneración:
+This weapon ignores Regeneration.	Esta arma ignora la Regeneración.
+This weapon ignores Regeneration.:	Esta arma ignora la Regeneración.:
+When taking a wound, roll one die. On a 5+ it is ignored.	Al tomar una herida, tire un dado. En un 5+ se ignora.
+When taking a wound, roll one die. On a 5+ it is ignored.:	Al tomar una herida, tire un dado. En un 5+ se ignora.:
+Ignores Regeneration, and unmodified rolls of 6 to hit get AP(4).	Ignora la regeneración y las tiradas no modificadas de 6 para obtener AP(4).
+Ignores Regeneration, and unmodified rolls of 6 to hit get AP(4).:	Ignora la regeneración y las tiradas no modificadas de 6 para obtener AP(4).:
+May be set aside before deployment. After all other units are deployed, must be deployed and may then be placed anywhere within 12” of their position. Players alternate in placing Scout units, starting with the player that activates next.	Se puede reservar antes de la implementación. Después de que todas las demás unidades estén desplegadas, deben desplegarse y luego pueden colocarse en cualquier lugar dentro de 12" de su posición. Los jugadores alternan en la colocación de unidades Scout, comenzando con el jugador que se activa a continuación.
+May be set aside before deployment. After all other units are deployed, must be deployed and may then be placed anywhere within 12” of their position. Players alternate in placing Scout units, starting with the player that activates next.:	Se puede reservar antes de la implementación. Después de que todas las demás unidades estén desplegadas, deben desplegarse y luego pueden colocarse en cualquier lugar dentro de 12" de su posición. Los jugadores alternan en la colocación de unidades Scout, comenzando con el jugador que se activa a continuación.:
+Enemies get -1 to hit rolls when shooting at units where all models have this rule from over 9" away.	Los enemigos obtienen -1 para golpear tiradas cuando disparan a unidades donde todos los modelos tienen esta regla desde más de 9"de distancia.
+Enemies get -1 to hit rolls when shooting at units where all models have this rule from over 9" away.:	Los enemigos obtienen -1 para golpear tiradas cuando disparan a unidades donde todos los modelos tienen esta regla desde más de 9"de distancia.:
+May ignore the effects of difficult terrain when moving.	Puede ignorar los efectos del terreno difícil al moverse.
+May ignore the effects of difficult terrain when moving.:	Puede ignorar los efectos del terreno difícil al moverse.:
+This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. Note that you must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last).	Este modelo debe tomar X heridas antes de ser asesinado. Si un modelo con hard se une a una unidad sin él, entonces se retira el último cuando la unidad recibe heridas. Tenga en cuenta que debe continuar poniendo heridas en el modelo duro con la mayoría de las heridas en la unidad hasta que se mate, antes de comenzar a ponerlas en el siguiente modelo duro (a los héroes se les deben asignar las últimas heridas).
+This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. Note that you must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last).:	Este modelo debe tomar X heridas antes de ser asesinado. Si un modelo con hard se une a una unidad sin él, entonces se retira el último cuando la unidad recibe heridas. Tenga en cuenta que debe continuar poniendo heridas en el modelo duro con la mayoría de las heridas en la unidad hasta que se mate, antes de comenzar a ponerlas en el siguiente modelo duro (a los héroes se les deben asignar las últimas heridas).:
+This model and its unit move +2" on Advance, and +4” on Rush/Charge.	Este modelo y su unidad se mueven +2" en Advance y +4" en Rush/Charge.
+This model and its unit move +2" on Advance, and +4” on Rush/Charge.:	Este modelo y su unidad se mueven +2" en Advance y +4" en Rush/Charge.:
+Enemy units using Ambush must be set up over 12" away from this model.	Las unidades enemigas que usan Ambush deben configurarse a más de 12"de distancia de este modelo.
+Enemy units using Ambush must be set up over 12" away from this model.:	Las unidades enemigas que usan Ambush deben configurarse a más de 12"de distancia de este modelo.:
+- 95pts	- 95pts
+- 95pts:	- 95pts:
+3	3
+3:	3:
+Fast	Rápido
+Fast:	Rápida:
+Pain Fuelled	Alimentado por el dolor
+Pain Fuelled:	Alimentado por el dolor:
+Dodge	Esquivar
+Dodge:	Esquivar:
+Deadly(3)	Mortal 3
+Deadly(3):	Mortal 3:
+Poison	Veneno
+Poison:	Veneno:
+- 155pts	- 155pts
+- 155pts:	- 155pts:
+Blast(3)	Explosión (3)
+Blast(3):	Explosión (3):
+[3]	[3]
+[3]:	[3]:
+- 245pts	- 245pts
+- 245pts:	- 245pts:
+Very Fast	Muy rápido
+Very Fast:	Muy rápido:
+1x Impact(3)	1x Impacto(3)
+1x Impact(3):	1x Impacto(3):
+Impact(3)	Impacto 3:
+- 255pts	- 255pts
+- 255pts:	- 255pts:
+Transport(11)	Transporte(11)
+Transport(11):	Transporte(11):
+Blast:	Explosion:
+Ignores cover, and after resolving other special rules, each hit is multiplied by X, where X is up to as many hits as models in the target unit.	Ignora la cobertura, y después de resolver otras reglas especiales, cada golpe se multiplica por X, donde X es hasta tantos golpes como modelos en la unidad objetivo.
+Ignores cover, and after resolving other special rules, each hit is multiplied by X, where X is up to as many hits as models in the target unit.:	Ignora la cobertura, y después de resolver otras reglas especiales, cada golpe se multiplica por X, donde X es hasta tantos golpes como modelos en la unidad objetivo.:
+Dead:	Muerto:
+Remove the hero from your army sheet.	Retira al héroe de tu sábana de ejército.
+Remove the hero from your army sheet.:	Retira al héroe de tu sábana de ejército.:
+Deadly:	Mortal:
+Assign each wound to one model, and multiply it by X. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.	Asigna cada herida a un modelo y multiplícala por X. Los golpes de Deadly deben resolverse primero, y estas heridas no se transfieren a otros modelos si se mata al objetivo original.
+Assign each wound to one model, and multiply it by X. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.:	Asigna cada herida a un modelo y multiplícala por X. Los golpes de Deadly deben resolverse primero, y estas heridas no se transfieren a otros modelos si se mata al objetivo original.:
+Enemies get -1 to hit in melee when attacking units where all models have this rule.	Los enemigos obtienen -1 para golpear en cuerpo a cuerpo cuando atacan unidades donde todos los modelos tienen esta regla.
+Enemies get -1 to hit in melee when attacking units where all models have this rule.:	Los enemigos obtienen -1 para golpear en cuerpo a cuerpo cuando atacan unidades donde todos los modelos tienen esta regla.:
+Moves +2" when using Advance, and +4” when using Rush/Charge.	Se mueve +2" cuando se usa Advance y +4" cuando se usa Rush/Charge.
+Moves +2" when using Advance, and +4” when using Rush/Charge.:	Se mueve +2" cuando se usa Advance y +4" cuando se usa Rush/Charge.:
+Impact:	Impacto:
+Roll X dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.	Tira los dados X al atacar después de cargar, a menos que estés fatigado. Por cada 2+ el objetivo recibe un golpe.
+Roll X dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.:	Tira los dados X al atacar después de cargar, a menos que estés fatigado. Por cada 2+ el objetivo recibe un golpe.:
+Ignores Regeneration, and the target must re-roll unmodified Defense rolls of 6 when blocking hits.	Ignora la regeneración, y el objetivo debe volver a tirar tiradas de defensa no modificadas de 6 al bloquear los golpes.
+Ignores Regeneration, and the target must re-roll unmodified Defense rolls of 6 when blocking hits.:	Ignora la regeneración, y el objetivo debe volver a tirar tiradas de defensa no modificadas de 6 al bloquear los golpes.:
+Transport:	Transporte:
+May transport up to X models or Heroes with up to Tough(6), and non-Heroes with up to Tough(3) which occupy 3 spaces each. Transports may deploy with units inside, and units may enter/exit by using any move action, but must stay fully within 6" of it when exiting. When a transport is destroyed, units inside must take a dangerous terrain test, are Shaken, and must be placed fully within 6” of the transport before removing it.	Puede transportar hasta X modelos o Héroes con hasta Tough(6), y no Héroes con hasta Tough(3) que ocupan 3 espacios cada uno. Los transportes pueden desplegarse con unidades dentro, y las unidades pueden entrar/salir usando cualquier acción de movimiento, pero deben permanecer completamente dentro de 6"al salir. Cuando se destruye un transporte, las unidades dentro deben realizar una prueba de terreno peligroso, se sacuden y deben colocarse completamente a 6" del transporte antes de retirarlo.
+May transport up to X models or Heroes with up to Tough(6), and non-Heroes with up to Tough(3) which occupy 3 spaces each. Transports may deploy with units inside, and units may enter/exit by using any move action, but must stay fully within 6" of it when exiting. When a transport is destroyed, units inside must take a dangerous terrain test, are Shaken, and must be placed fully within 6” of the transport before removing it.:	Puede transportar hasta X modelos o Héroes con hasta Tough(6), y no Héroes con hasta Tough(3) que ocupan 3 espacios cada uno. Los transportes pueden desplegarse con unidades dentro, y las unidades pueden entrar/salir usando cualquier acción de movimiento, pero deben permanecer completamente dentro de 6"al salir. Cuando se destruye un transporte, las unidades dentro deben realizar una prueba de terreno peligroso, se sacuden y deben colocarse completamente a 6" del transporte antes de retirarlo.:
+Moves +4" when using Advance, and +8” when using Rush/Charge.	Se mueve +4" cuando se usa Advance y +8" cuando se usa Rush/Charge.
+Moves +4" when using Advance, and +8” when using Rush/Charge.:	Se mueve +4" cuando se usa Advance y +8" cuando se usa Rush/Charge.:
+- 100pts	- 100pts
+- 100pts:	- 100pts:
+Caster(2)	Lanzador(2)
+Caster(2):	Lanzador(2):
+Reliable	Fiable
+Reliable:	Fiable:
+- 145pts	- 145pts
+- 145pts:	- 145pts:
+Warp	Deformar
+Warp:	Deformar:
+1x Caster(1)	1x Lanzador(1)
+1x Caster(1):	1x Lanzador(1):
+Lock-On	Fijado
+Lock-On:	Fijado:
+Caster(1)	Lanzador(1)
+Caster(1):	Lanzador(1):
+Relentless	Implacable:
+Relentless:	Implacable:
+Gets X spell tokens at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.	Obtiene tokens de hechizos X al comienzo de cada ronda, pero no puede contener más de 6 tokens a la vez. En cualquier momento antes de atacar, gasta tantas fichas como el valor del hechizo para intentar lanzar uno o más hechizos (solo un intento por hechizo). Tira un dado, en 4+ resuelve el efecto sobre un objetivo en la línea de visión. Los modelos dentro de 18" en línea de visión de la unidad del lanzador pueden gastar cualquier número de fichas de hechizo al mismo tiempo antes de rodar, para darle al lanzador +1/-1 a la tirada por ficha.
+Gets X spell tokens at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.:	Obtiene tokens de hechizos X al comienzo de cada ronda, pero no puede contener más de 6 tokens a la vez. En cualquier momento antes de atacar, gasta tantas fichas como el valor del hechizo para intentar lanzar uno o más hechizos (solo un intento por hechizo). Tira un dado, en 4+ resuelve el efecto sobre un objetivo en la línea de visión. Los modelos dentro de 18" en línea de visión de la unidad del lanzador pueden gastar cualquier número de fichas de hechizo al mismo tiempo antes de rodar, para darle al lanzador +1/-1 a la tirada por ficha.:
+Ignores cover and all negative modifiers to hit rolls and range.	Ignora la cobertura y todos los modificadores negativos para golpear las tiradas y el rango.
+Ignores cover and all negative modifiers to hit rolls and range.:	Ignora la cobertura y todos los modificadores negativos para golpear las tiradas y el rango.:
+When using Hold actions and shooting, unmodified rolls of 6 to hit deal one extra hit (only the original hit counts as a 6 for special rules).	Al usar acciones de retención y disparos, las tiradas no modificadas de 6 para golpear dan un golpe extra (solo el golpe original cuenta como un 6 para reglas especiales).
+When using Hold actions and shooting, unmodified rolls of 6 to hit deal one extra hit (only the original hit counts as a 6 for special rules).:	Al usar acciones de retención y disparos, las tiradas no modificadas de 6 para golpear dan un golpe extra (solo el golpe original cuenta como un 6 para reglas especiales).:
+Attacks at Quality 2+.	Ataques en Calidad 2+.
+Attacks at Quality 2+.:	Ataques en Calidad 2+.:
+Enemies that roll to block hits from this weapon take one extra wound for each unmodified result of 1 that they roll.	Los enemigos que tiran para bloquear los golpes de esta arma reciben una herida adicional por cada resultado no modificado de 1 que tiran.
+Enemies that roll to block hits from this weapon take one extra wound for each unmodified result of 1 that they roll.:	Los enemigos que tiran para bloquear los golpes de esta arma reciben una herida adicional por cada resultado no modificado de 1 que tiran.:
+Breath of Change (1):	Aliento de cambio (1):
+Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.	Apunta a 2 unidades amigas dentro de 12" movimiento +1" la próxima vez que avancen, o +2"la próxima vez que se apresuren/carguen.
+Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.:	Apunta a 2 unidades amigas dentro de 12" movimiento +1" la próxima vez que avancen, o +2"la próxima vez que se apresuren/carguen.:
+Blaze (1):	Llamarada (1):
+Target enemy unit within 12" takes 2 hits with AP(2).	La unidad enemiga objetivo dentro de 12" recibe 2 golpes con AP(2).
+Target enemy unit within 12" takes 2 hits with AP(2).:	La unidad enemiga objetivo dentro de 12" recibe 2 golpes con AP(2).:
+Steal Power (2):	Robar energía (2):
+Target 2 enemy units within 18" get -1 to hit rolls next time they shoot.	Dirígete a 2 unidades enemigas dentro de 18"y obtén -1 para hacer tiradas la próxima vez que disparen.
+Target 2 enemy units within 18" get -1 to hit rolls next time they shoot.:	Dirígete a 2 unidades enemigas dentro de 18"y obtén -1 para hacer tiradas la próxima vez que disparen.:
+Inferno (2):	Infierno (2):
+Target enemy unit within 18” takes 1 hit with Blast(6).	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(6).
+Target enemy unit within 18” takes 1 hit with Blast(6).:	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(6).:
+Loyalty (3):	Lealtad (3):
+Bolt of Change (3):	Rayo de cambio (3):
+Target enemy unit within 12" takes 1 hit with AP(4) and Deadly(6).	La unidad enemiga objetivo dentro de 12" recibe 1 golpe con AP(4) y Deadly(6).
+Target enemy unit within 12" takes 1 hit with AP(4) and Deadly(6).:	La unidad enemiga objetivo dentro de 12" recibe 1 golpe con AP(4) y Deadly(6).:
+- 115pts	- 115pts
+- 115pts:	- 115pts:
+Shield Wall	Muro de Escudos
+Shield Wall:	Muro de Escudos:
+Energy Field	Campo de energía
+Energy Field:	Campo de energía:
+1x Fear(2)	1x Miedo(2)
+1x Fear(2):	1x Miedo(2):
+Fear(2)	Miedo(2)
+Fear(2):	Miedo(2):
+This model and its unit get Stealth.	Este modelo y su unidad obtienen Stealth.
+This model and its unit get Stealth.:	Este modelo y su unidad obtienen Stealth.:
+Fear:	Miedo:
+This model counts as having dealt +X wounds when checking who won melee.	Este modelo cuenta como haber tratado +X heridas al comprobar quién ganó cuerpo a cuerpo.
+This model counts as having dealt +X wounds when checking who won melee.:	Este modelo cuenta como haber tratado +X heridas al comprobar quién ganó cuerpo a cuerpo.:
+This model gets +1 to defense rolls against hits that are not from spells.	Este modelo obtiene +1 en tiradas de defensa contra golpes que no son de hechizos.
+This model gets +1 to defense rolls against hits that are not from spells.:	Este modelo obtiene +1 en tiradas de defensa contra golpes que no son de hechizos.:
+Hide (1):	Ocultar (1)
+Hide (1)::	Ocultar (1):
+Target enemy unit within 18" gets -1 to hit rolls next time it shoots.	La unidad enemiga objetivo dentro de 18" obtiene -1 para golpear tiradas la próxima vez que dispare.
+Target enemy unit within 18" gets -1 to hit rolls next time it shoots.:	La unidad enemiga objetivo dentro de 18" obtiene -1 para golpear tiradas la próxima vez que dispare.:
+Soul Seeker (1):	Buscador de almas (1):
+Creator (2):	Creador (2):
+Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.	Apunta a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.
+Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.:	Apunta a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.:
+Destroyer (2):	Destructor (2):
+Target enemy unit within 12” takes 8 hits.	La unidad enemiga objetivo dentro de 12" recibe 8 golpes.
+Target enemy unit within 12” takes 8 hits.:	La unidad enemiga objetivo dentro de 12" recibe 8 golpes.:
+Blessing (3):	Bendición (3)
+Blessing (3)::	Bendición (3):
+Target 2 friendly units within 12" get +3 to hit rolls next time they charge.	Apunta a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.
+Target 2 friendly units within 12" get +3 to hit rolls next time they charge.:	Apunta a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.:
+Curse (3):	Maldición (3):
+Defense(1)*	Defensa(1)*
+Defense(1)*:	Defensa(1)*:
+*Defense bonus from items are already included in the Def stat.	*La bonificación de defensa de los artículos ya está incluida en la estadística Def.
+*Defense bonus from items are already included in the Def stat.:	*La bonificación de defensa de los artículos ya está incluida en la estadística Def.:
+- 105pts	- 105pts
+- 105pts:	- 105pts:
+Ambush	Emboscada
+Take Aim	Apuntar
+Take Aim:	Apuntar:
+- 235pts	- 235pts
+- 235pts:	- 235pts:
+Transport(6)	Transporte (6)
+Transport(6):	Transporte (6):
+Once per this unit's activation, before attacking, pick one friendly unit within 12", which gets +1 to hit next time it shoots.	Una vez por activación de esta unidad, antes de atacar, elige una unidad amiga dentro de 12", que obtiene +1 para golpear la próxima vez que dispare.
+Once per this unit's activation, before attacking, pick one friendly unit within 12", which gets +1 to hit next time it shoots.:	Una vez por activación de esta unidad, antes de atacar, elige una unidad amiga dentro de 12", que obtiene +1 para golpear la próxima vez que dispare.:
+- 250pts	- 250pts
+- 250pts:	- 250pts:
+Advanced Tactics	Tácticas avanzadas
+Advanced Tactics:	Tácticas avanzadas:
+- 240pts	- 240pts
+- 240pts:	- 240pts:
+Fear(1)	Miedo(1)
+Fear(1):	Miedo(1):
+Once per this unit's activation, before attacking, pick one other friendly unit within 12", which may move by up to 6".	Una vez activada esta unidad, antes de atacar, elige otra unidad amiga dentro de 12", que puede moverse hasta 6".
+Once per this unit's activation, before attacking, pick one other friendly unit within 12", which may move by up to 6".:	Una vez activada esta unidad, antes de atacar, elige otra unidad amiga dentro de 12", que puede moverse hasta 6".:
+Whenever a unit where most models have this rule fails a morale test, roll one die. On a 4+ it counts as passed instead.	Cada vez que una unidad donde la mayoría de los modelos tienen esta regla falla en una prueba de moral, tira un dado. En un 4+ cuenta como pasado en su lugar.
+Whenever a unit where most models have this rule fails a morale test, roll one die. On a 4+ it counts as passed instead.:	Cada vez que una unidad donde la mayoría de los modelos tienen esta regla falla en una prueba de moral, tira un dado. En un 4+ cuenta como pasado en su lugar.:
+Dark Tactics	Tácticas oscuras:
+Dark Tactics:	Tácticas oscuras:
+Limited	Limitada
+Limited:	Limitada:
+May only be used once per game.	Solo se puede usar una vez por partida.
+May only be used once per game.:	Solo se puede usar una vez por partida.:
+Robot	Robot
+Robot:	Robot:
+Self-Repair	Autoreparación
+Self-Repair:	Autoreparación:
+Slow	Lento
+Slow:	Lento:
+- 125pts	- 125pts
+- 125pts:	- 125pts:
+Regen-Protocol	Protocolo de Regeneración
+Regen-Protocol:	Protocolo de Regeneración:
+- 120pts	- 120pts
+- 120pts:	- 120pts:
+Sniper	Francotirador
+Sniper:	Francotirador:
+Royal March Order	Real Orden de Marcha
+Royal March Order:	Real Orden de Marcha:
+Whenever a unit where most models have this rule fails a morale test that causes it to be Shaken or Routed, the test counts as passed instead. Then, roll as many dice as the number of wounds it would take to fully destroy it, and for each result of 1-3 the unit takes one wound, which can't be ignored.	Cada vez que una unidad donde la mayoría de los modelos tienen esta regla falla en una prueba de moral que hace que sea sacudida o enrutada, la prueba cuenta como aprobada. Luego, tira tantos dados como el número de heridas que se necesitarían para destruirlo por completo, y por cada resultado de 1-3, la unidad recibe una herida, que no se puede ignorar.
+Once per this unit's activation, pick one friendly unit within 12", which may ignore the Slow rule next time it moves.	Una vez activada esta unidad, elige una unidad amiga dentro de 12", que puede ignorar la regla lenta la próxima vez que se mueva.
+When taking a wound, roll one die. On a 6+ it is ignored.	Al tomar una herida, tire un dado. En un 6+ se ignora.
+Moves -2" when using Advance, and -4” when using Rush/Charge.	Mueve -2" cuando se usa Advance y -4" cuando se usa Rush/Charge.
+Shoots at Quality 2+, and each model with Sniper may pick any model in the target unit as its individual target, which is resolved as if it was a unit of 1. Sniper shooting must be resolved before other weapons.	Dispara a Calidad 2+, y cada modelo con Francotirador puede elegir cualquier modelo en la unidad objetivo como su objetivo individual, que se resuelve como si fuera una unidad de 1. Los disparos de francotirador deben resolverse antes que otras armas.
+Slayer	Slayer
+1x Banner	1x Estandarte
+1x Musician	1x Músico
+- 70pts	- 70pts
+Volcanic Leader	Líder volcánico
+- 185pts	- 185pts
+Ethereal	Etéreo
+- 285pts	- 285pts
+12	12
+Breath Attack	Ataque respiratorio
+Banner:	Estandarte:
+This model and its unit get +1 to morale test rolls.	Este modelo y su unidad obtienen +1 en las tiradas de prueba de moral.
+Breath Attack:	Ataque de Aliento:
+Once per this model's activation, before attacking, roll one die. On a 2+ one enemy unit within 6" in line of sight takes 1 hit with Blast(3) and AP(1).	Una vez por la activación de este modelo, antes de atacar, tira un dado. En una unidad enemiga de 2+ una dentro de 6" en la línea de visión toma 1 golpe con Blast(3) y AP(1).
+Ethereal:	Etéreo:
+Counts as having Stealth and Strider. When taking a wound, roll one die, on a 6+ it is ignored.	Cuenta como Sigilo y Caminante. Al tomar una herida, tira un dado, en un 6+ se ignora.
+Musician:	Músico:
+This model and its unit move by +1" when taking move actions.	Este modelo y su unidad se mueven en +1" al realizar acciones de movimiento.
+Slayer:	Matador:
+This model's melee weapons get AP(+2) against units where most models have Tough(3) or higher.	Las armas cuerpo a cuerpo de este modelo obtienen AP(+2) contra unidades donde la mayoría de los modelos tienen Tough(3) o superior.
+Volcanic Leader:	Líder volcánico:
+This model and its unit get Ambush.	Este modelo y su unidad reciben Emboscada.
+- 80pts	- 80pts
+- 180pts	- 180pts
+Shaman Circle	Círculo de chamanes
+- 215pts	- 215pts
+1x Sergeant	1x Sargento
+Boing	Bote
+Lance	Lanza
+Boing:	Bote:
+When this unit is activated, you may place all models with this rule in it anywhere within D3+1" of their position.	Cuando esta unidad está activada, puede colocar todos los modelos con esta regla en cualquier lugar dentro de D3+1" de su posición.
+Lance:	Lanza:
+When charging, gets +1 to hit rolls and AP(+1) in melee.	Al cargar, obtiene +1 en tiradas de impactar y AP(+1) en cuerpo a cuerpo.
+Sergeant:	Sargento:
+This model gets +1 to hit rolls.	Este modelo obtiene +1 para acertar tiradas.
+Shaman Circle:	Círculo de chamanes:
+Pick one model in this unit to have Caster(X), where X is the total number of models in this unit. If the model is killed, pick another to be the new caster, and transfer all spell tokens to it. The caster loses all unspent spell tokens at the end of the round.	Elija un modelo en esta unidad para tener Lanzador(X), donde X es el número total de modelos en esta unidad. Si el modelo muere, elige a otro para que sea el nuevo lanzador y transfiérele todas las fichas de hechizos. El lanzador pierde todas las fichas de hechizo no gastadas al final de la ronda.
+Spider’s Might (1):	Fuerza de la Araña (1):
+Target 2 friendly units within 12" get Poison next time they fight in melee.	Escoge a 2 unidades amigas dentro de 12"y obtienen Veneno la próxima vez que peleen en cuerpo a cuerpo.
+Glare (1):	Deslumbramiento (1):
+Target enemy unit within 12" takes 1 hit with AP(2) and Deadly(3).	La unidad enemiga objetivo dentro de 12" recibe 1 golpe con AP(2) y Deadly(3).
+Nuisance (2):	Molestias (2):
+Death Shroud (2):	Sudario de la Muerte (2):
+Target enemy unit within 12" takes 4 hits with AP(2).	La unidad enemiga objetivo dentro de 12" recibe 4 golpes con AP(2).
+Sneaky (3):	Sigiloso (3):
+Target 2 friendly units within 12" move +3" next time they Advance, or +6" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y moverán +3" la próxima vez que avancen, o +6" la próxima vez que se apresuren/carguen.
+Target enemy unit within 18” takes 1 hit with Blast(12).	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(12).
+9	9
+Inspire	Inspirar
+Tough(+3)	Duro(+3)
+[6]	[6]
+- 220pts	- 220pts
+Inspire:	Inspirar
+- 165pts	- 165pts
+- 205pts	- 205pts
+Impact(2)	Impacto 2:
+- 275pts	- 275pts
+Horrify (1):	Horrorizar (1):
+Barbed Spikes (1):	Puas Punzantes (1):
+Dark Chains (2):	Cadenas Oscuras (2):
+Impale (2):	Empalar (2):
+Target enemy model within 12" takes 2 hits with AP(4).	El modelo enemigo objetivo dentro de 12" recibe 2 golpes con AP(4).
+Havoc Charge (3):	Carga Ruinosa (3):
+Thorn Field (3):	Campo de espinas (3):
+- 90pts	- 90pts
+Caster(3)	Lanzador(3)
+- 140pts	- 140pts
+Spirit Mantle (1):	Manto espiritual (1):
+Target 2 friendly units within 12" get Stealth next time they are shot at.	Escoge a 2 unidades amigas dentro de 12"y consiguen Sigilo la próxima vez que les disparen.
+Traitor’s Wrath (1):	Ira de traidor (1):
+Target enemy model within 12" takes 1 hit with AP(4).	El modelo enemigo objetivo dentro de 12" recibe 1 golpe con AP(4).
+Surge (2):	Sobretensión (2):
+Target 2 friendly units within 12" move +2" next time they Advance, or +4" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y  moverán +2" la próxima vez que avancen, o +4"la próxima vez que se apresuren/carguen.
+Vile Swarm (2):	Enjambre Vil (2):
+Animalistic (3):	Animalístico (3):
+Target 2 enemy units within 18" get -2 to hit rolls next time they fight in melee.	Escoge a 2 unidades enemigas dentro de 18"y obtienen -2 para tiradas de impactar la próxima vez que luchen en cuerpo a cuerpo.
+Howling Roar (3):	Rugido aullante (3):
+Undead	No-Muerto
+Reap	Cosechar
+- 135pts	- 135pts
+Impact(1)	Impacto (1)
+Reap:	Cosechar:
+Undead:	No-Muerto:
+Dread (1):	Aterrar (1):
+Target 2 enemy units within 18" move -1" next time they Advance, or -2" next time they Charge/Rush.	Escoge 2 unidades enemigas dentro de 18" y moverán -1" la próxima vez que avancen, o -2"la próxima vez que carguen/se apresuren.
+Terror (1):	Terror (1):
+Target enemy unit within 18” takes 1 hit with Blast(3).	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(3).
+Grief (2):	Sufrimiento (2):
+Target 2 friendly units within 12" get +2 to hit rolls next time they charge.	Escoge 2 unidades amigas dentro de 12"y consiguen +2 para tiradas de impactar la próxima vez que carguen.
+Eat Soul (2):	Devorar Alma (2):
+Target enemy unit within 12" takes 1 hit with AP(4) and Deadly(3).	La unidad enemiga objetivo dentro de 12" recibe 1 golpe con AP(4) y Letal (3).
+Rise Again (3):	Levántate de nuevo (3):
+Vicious Spirits (3):	Espíritus viciosos (3):
+Target enemy unit within 12" takes 6 hits with AP(2).	La unidad enemiga objetivo dentro de 12" recibe 6 golpes con AP(2).
+- 130pts	- 130pts
+- 160pts	- 160pts
+- 200pts	- 200pts
+Impact(4)	Impacto 4
+Evil Gaze (1):	Mirada Maligna (1):
+Burst (1):	Ráfaga (1):
+Magic Fists (2):	Puños mágicos (2):
+Target 2 friendly units within 12" get Rending next time they fight in melee.	Escoge 2 unidades amigas dentro de 12"y consigue Rending la próxima vez que peleen en cuerpo a cuerpo.
+Headbutt (2):	Cabezal (2):
+Let’s Go (3):	Vamoh! (3):
+Godly Foot (3):	Pie piadoso (3):
+Flying	Volar
+Devour	Devorar
+Protected	Protegido
+Counter	Contra-ataque
+Frightful Gaze	Mirada espantosa
+- 170pts	- 170pts
+Counter:	Contra-ataque:
+Strikes first with this weapon when charged, and the charging unit gets -1 total Impact rolls per model with Counter.	Golpea primero con esta arma cuando se carga, y la unidad de carga obtiene -1 impactos totales por cada modelo con Contraataque.
+Devour:	Devorar:
+Whenever this model attacks in melee, roll one die. On a roll of 6+ the target takes 1 wound.	Cada vez que este modelo ataque en cuerpo a cuerpo, tira un dado. En una tirada de 6+, el objetivo recibe 1 herida.
+Flying:	Volar:
+May move through units and terrain, and ignores terrain effects whilst moving.	Puede moverse a través de las unidades y el terreno, e ignora los efectos del terreno mientras se mueve.
+Frightful Gaze:	Mirada Espantosa:
+Once per this unit's activation, before attacking, pick one enemy unit within 12", which gets -2 to its next morale test roll.	Una vez por activación de esta unidad, antes de atacar, elige una unidad enemiga dentro de 12", que obtiene -2 a su siguiente tirada de prueba de moral.
+Protected:	Protegido:
+When units where all models have this rule take hits, those hits count as having AP(-1), to a min. of AP(0).	Cuando las unidades donde todos los modelos tienen esta regla reciben golpes, esos golpes cuentan como que tienen AP(-1), hasta un mínimo de AP(0).
+Vigour (1):	Vigor (1):
+Target friendly unit within 12" gets +1 to hit rolls next time it fights in melee.	La unidad amiga objetivo dentro de 12" obtiene +1 en tiradas de impactar la próxima vez que pelee en cuerpo a cuerpo.
+Spectral Wind (1):	Viento espectral (1):
+Dance of Death (2):	Baile de la Muerte (2):
+Deadly Gaze (2):	Mirada Letal (2):
+Invocation (3):	Invocación (3):

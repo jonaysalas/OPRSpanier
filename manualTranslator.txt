@@ -1,7 +1,12 @@
 Headtaker	Decapitador
 Tough	Duro
 Tough(X)	Duro(X)
+Tough(3)	Duro(3)
+Tough(6)	Duro(6)
+Tough(9)	Duro(9)
+Tough(12)	Duro(12)
 Rending	Desgarro
+Hero	Héroe
 Fearless	Valiente
 Empower	Empoderar
 Target 2 enemy units within 18" move -2" next time they Advance, or -4" next time they Charge/Rush.	Escoge 2 unidades enemigas a 18" y moverán -2" la proxima vez que avancen o -4" la siguiente vez que Carguen/Corran
@@ -14,3 +19,4 @@ Target 2 enemy units within 18" get -1 to their next morale test roll.	Escoge 2 
 Target 2 friendly units within 12" get Flying next time they move.	Escoge 2 unidades amigas a 12" y obtienen Volar la proxima vez que se muevan
 Target 2 enemy units within 12" take 4 hits each.	Escoge 2 unidades enemigas a 12" y reciben 4 impactos cada una
 Target 3 friendly units within 12" get Regeneration next time they take wounds.	Escoge 3 unidades amigas a 12" y reciben Regeneración la proxima vez que reciban heridas
+Lock-On	Fijado
