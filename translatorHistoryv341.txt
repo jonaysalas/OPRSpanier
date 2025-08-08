@@ -66,8 +66,8 @@ May ignore the effects of difficult terrain when moving.	Puede ignorar los efect
 May ignore the effects of difficult terrain when moving.:	Puede ignorar los efectos del terreno difícil al moverse.:
 This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. Note that you must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last).	Este modelo debe tomar X heridas antes de ser asesinado. Si un modelo con hard se une a una unidad sin él, entonces se retira el último cuando la unidad recibe heridas. Tenga en cuenta que debe continuar poniendo heridas en el modelo duro con la mayoría de las heridas en la unidad hasta que se mate, antes de comenzar a ponerlas en el siguiente modelo duro (a los héroes se les deben asignar las últimas heridas).
 This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. Note that you must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last).:	Este modelo debe tomar X heridas antes de ser asesinado. Si un modelo con hard se une a una unidad sin él, entonces se retira el último cuando la unidad recibe heridas. Tenga en cuenta que debe continuar poniendo heridas en el modelo duro con la mayoría de las heridas en la unidad hasta que se mate, antes de comenzar a ponerlas en el siguiente modelo duro (a los héroes se les deben asignar las últimas heridas).:
-This model and its unit move +2" on Advance, and +4” on Rush/Charge.	Este modelo y su unidad se mueven +2" en Advance y +4" en Rush/Charge.
-This model and its unit move +2" on Advance, and +4” on Rush/Charge.:	Este modelo y su unidad se mueven +2" en Advance y +4" en Rush/Charge.:
+This model and its unit move +2" on Advance, and +4” on Rush/Charge.	Este modelo y su unidad se mueven +2" en Avanzar y +4" en Correr/Cargar.
+This model and its unit move +2" on Advance, and +4” on Rush/Charge.:	Este modelo y su unidad se mueven +2" en Avanzar y +4" en Correr/Cargar.:
 Enemy units using Ambush must be set up over 12" away from this model.	Las unidades enemigas que usan Ambush deben configurarse a más de 12"de distancia de este modelo.
 Enemy units using Ambush must be set up over 12" away from this model.:	Las unidades enemigas que usan Ambush deben configurarse a más de 12"de distancia de este modelo.:
 - 95pts	- 95pts
@@ -112,8 +112,8 @@ Assign each wound to one model, and multiply it by X. Hits from Deadly must be r
 Assign each wound to one model, and multiply it by X. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.:	Asigna cada herida a un modelo y multiplícala por X. Los golpes de Deadly deben resolverse primero, y estas heridas no se transfieren a otros modelos si se mata al objetivo original.:
 Enemies get -1 to hit in melee when attacking units where all models have this rule.	Los enemigos obtienen -1 para golpear en cuerpo a cuerpo cuando atacan unidades donde todos los modelos tienen esta regla.
 Enemies get -1 to hit in melee when attacking units where all models have this rule.:	Los enemigos obtienen -1 para golpear en cuerpo a cuerpo cuando atacan unidades donde todos los modelos tienen esta regla.:
-Moves +2" when using Advance, and +4” when using Rush/Charge.	Se mueve +2" cuando se usa Advance y +4" cuando se usa Rush/Charge.
-Moves +2" when using Advance, and +4” when using Rush/Charge.:	Se mueve +2" cuando se usa Advance y +4" cuando se usa Rush/Charge.:
+Moves +2" when using Advance, and +4” when using Rush/Charge.	Mueve +2" en Avanzar y +4" en Correr/Cargar.
+Moves +2" when using Advance, and +4” when using Rush/Charge.:	Mueve +2" en Avanzar y +4" en Correr/Cargar.:
 Impact:	Impacto:
 Roll X dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.	Tira los dados X al atacar después de cargar, a menos que estés fatigado. Por cada 2+ el objetivo recibe un golpe.
 Roll X dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.:	Tira los dados X al atacar después de cargar, a menos que estés fatigado. Por cada 2+ el objetivo recibe un golpe.:
@@ -122,8 +122,8 @@ Ignores Regeneration, and the target must re-roll unmodified Defense rolls of 6 
 Transport:	Transporte:
 May transport up to X models or Heroes with up to Tough(6), and non-Heroes with up to Tough(3) which occupy 3 spaces each. Transports may deploy with units inside, and units may enter/exit by using any move action, but must stay fully within 6" of it when exiting. When a transport is destroyed, units inside must take a dangerous terrain test, are Shaken, and must be placed fully within 6” of the transport before removing it.	Puede transportar hasta X modelos o Héroes con hasta Tough(6), y no Héroes con hasta Tough(3) que ocupan 3 espacios cada uno. Los transportes pueden desplegarse con unidades dentro, y las unidades pueden entrar/salir usando cualquier acción de movimiento, pero deben permanecer completamente dentro de 6"al salir. Cuando se destruye un transporte, las unidades dentro deben realizar una prueba de terreno peligroso, se sacuden y deben colocarse completamente a 6" del transporte antes de retirarlo.
 May transport up to X models or Heroes with up to Tough(6), and non-Heroes with up to Tough(3) which occupy 3 spaces each. Transports may deploy with units inside, and units may enter/exit by using any move action, but must stay fully within 6" of it when exiting. When a transport is destroyed, units inside must take a dangerous terrain test, are Shaken, and must be placed fully within 6” of the transport before removing it.:	Puede transportar hasta X modelos o Héroes con hasta Tough(6), y no Héroes con hasta Tough(3) que ocupan 3 espacios cada uno. Los transportes pueden desplegarse con unidades dentro, y las unidades pueden entrar/salir usando cualquier acción de movimiento, pero deben permanecer completamente dentro de 6"al salir. Cuando se destruye un transporte, las unidades dentro deben realizar una prueba de terreno peligroso, se sacuden y deben colocarse completamente a 6" del transporte antes de retirarlo.:
-Moves +4" when using Advance, and +8” when using Rush/Charge.	Se mueve +4" cuando se usa Advance y +8" cuando se usa Rush/Charge.
-Moves +4" when using Advance, and +8” when using Rush/Charge.:	Se mueve +4" cuando se usa Advance y +8" cuando se usa Rush/Charge.:
+Moves +4" when using Advance, and +8” when using Rush/Charge.	Se mueve +4" cuando se usa Avanzar y +8" cuando se usa Correr/Cargar.
+Moves +4" when using Advance, and +8” when using Rush/Charge.:	Se mueve +4" cuando se usa Avanzar y +8" cuando se usa Correr/Cargar.:
 - 100pts	- 100pts
 - 100pts:	- 100pts:
 Caster(2)	Lanzador(2)
@@ -153,8 +153,8 @@ Attacks at Quality 2+.:	Ataques en Calidad 2+.:
 Enemies that roll to block hits from this weapon take one extra wound for each unmodified result of 1 that they roll.	Los enemigos que tiran para bloquear los golpes de esta arma reciben una herida adicional por cada resultado no modificado de 1 que tiran.
 Enemies that roll to block hits from this weapon take one extra wound for each unmodified result of 1 that they roll.:	Los enemigos que tiran para bloquear los golpes de esta arma reciben una herida adicional por cada resultado no modificado de 1 que tiran.:
 Breath of Change (1):	Aliento de cambio (1):
-Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.	Apunta a 2 unidades amigas dentro de 12" movimiento +1" la próxima vez que avancen, o +2"la próxima vez que se apresuren/carguen.
-Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.:	Apunta a 2 unidades amigas dentro de 12" movimiento +1" la próxima vez que avancen, o +2"la próxima vez que se apresuren/carguen.:
+Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12". Se moverán +1" la próxima vez que avancen, o +2"la próxima vez que se corran/carguen.
+Target 2 friendly units within 12" move +1" next time they Advance, or +2" next time they Rush/Charge.:	Escoge a 2 unidades amigas dentro de 12". Se moverán +1" la próxima vez que avancen, o +2"la próxima vez que se corran/carguen.:
 Blaze (1):	Llamarada (1):
 Target enemy unit within 12" takes 2 hits with AP(2).	La unidad enemiga objetivo dentro de 12" recibe 2 golpes con AP(2).
 Target enemy unit within 12" takes 2 hits with AP(2).:	La unidad enemiga objetivo dentro de 12" recibe 2 golpes con AP(2).:
@@ -191,15 +191,15 @@ Target enemy unit within 18" gets -1 to hit rolls next time it shoots.	La unidad
 Target enemy unit within 18" gets -1 to hit rolls next time it shoots.:	La unidad enemiga objetivo dentro de 18" obtiene -1 para golpear tiradas la próxima vez que dispare.:
 Soul Seeker (1):	Buscador de almas (1):
 Creator (2):	Creador (2):
-Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.	Apunta a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.
-Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.:	Apunta a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.:
+Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.	Escoge a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.
+Target 2 friendly units within 12" get +1 to defense rolls next time they take hits.:	Escoge a 2 unidades amigas dentro de 12"y obtén +1 en tiradas de defensa la próxima vez que reciban golpes.:
 Destroyer (2):	Destructor (2):
 Target enemy unit within 12” takes 8 hits.	La unidad enemiga objetivo dentro de 12" recibe 8 golpes.
 Target enemy unit within 12” takes 8 hits.:	La unidad enemiga objetivo dentro de 12" recibe 8 golpes.:
 Blessing (3):	Bendición (3)
 Blessing (3)::	Bendición (3):
-Target 2 friendly units within 12" get +3 to hit rolls next time they charge.	Apunta a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.
-Target 2 friendly units within 12" get +3 to hit rolls next time they charge.:	Apunta a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.:
+Target 2 friendly units within 12" get +3 to hit rolls next time they charge.	Escoge a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.
+Target 2 friendly units within 12" get +3 to hit rolls next time they charge.:	Escoge a 2 unidades amigas dentro de 12"y consigue +3 para golpear tiradas la próxima vez que carguen.:
 Curse (3):	Maldición (3):
 Defense(1)*	Defensa(1)*
 Defense(1)*:	Defensa(1)*:
@@ -253,7 +253,7 @@ Royal March Order:	Real Orden de Marcha:
 Whenever a unit where most models have this rule fails a morale test that causes it to be Shaken or Routed, the test counts as passed instead. Then, roll as many dice as the number of wounds it would take to fully destroy it, and for each result of 1-3 the unit takes one wound, which can't be ignored.	Cada vez que una unidad donde la mayoría de los modelos tienen esta regla falla en una prueba de moral que hace que sea sacudida o enrutada, la prueba cuenta como aprobada. Luego, tira tantos dados como el número de heridas que se necesitarían para destruirlo por completo, y por cada resultado de 1-3, la unidad recibe una herida, que no se puede ignorar.
 Once per this unit's activation, pick one friendly unit within 12", which may ignore the Slow rule next time it moves.	Una vez activada esta unidad, elige una unidad amiga dentro de 12", que puede ignorar la regla lenta la próxima vez que se mueva.
 When taking a wound, roll one die. On a 6+ it is ignored.	Al tomar una herida, tire un dado. En un 6+ se ignora.
-Moves -2" when using Advance, and -4” when using Rush/Charge.	Mueve -2" cuando se usa Advance y -4" cuando se usa Rush/Charge.
+Moves -2" when using Advance, and -4” when using Rush/Charge.	Mueve -2" cuando se usa Avanzar y -4" cuando se usa Correr/Cargar.
 Shoots at Quality 2+, and each model with Sniper may pick any model in the target unit as its individual target, which is resolved as if it was a unit of 1. Sniper shooting must be resolved before other weapons.	Dispara a Calidad 2+, y cada modelo con Francotirador puede elegir cualquier modelo en la unidad objetivo como su objetivo individual, que se resuelve como si fuera una unidad de 1. Los disparos de francotirador deben resolverse antes que otras armas.
 Slayer	Slayer
 1x Banner	1x Estandarte
@@ -300,7 +300,7 @@ Nuisance (2):	Molestias (2):
 Death Shroud (2):	Sudario de la Muerte (2):
 Target enemy unit within 12" takes 4 hits with AP(2).	La unidad enemiga objetivo dentro de 12" recibe 4 golpes con AP(2).
 Sneaky (3):	Sigiloso (3):
-Target 2 friendly units within 12" move +3" next time they Advance, or +6" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y moverán +3" la próxima vez que avancen, o +6" la próxima vez que se apresuren/carguen.
+Target 2 friendly units within 12" move +3" next time they Advance, or +6" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y moverán +3" la próxima vez que avancen, o +6" la próxima vez que se corran/carguen.
 Target enemy unit within 18” takes 1 hit with Blast(12).	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(12).
 9	9
 Inspire	Inspirar
@@ -327,7 +327,7 @@ Target 2 friendly units within 12" get Stealth next time they are shot at.	Escog
 Traitor’s Wrath (1):	Ira de traidor (1):
 Target enemy model within 12" takes 1 hit with AP(4).	El modelo enemigo objetivo dentro de 12" recibe 1 golpe con AP(4).
 Surge (2):	Sobretensión (2):
-Target 2 friendly units within 12" move +2" next time they Advance, or +4" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y  moverán +2" la próxima vez que avancen, o +4"la próxima vez que se apresuren/carguen.
+Target 2 friendly units within 12" move +2" next time they Advance, or +4" next time they Rush/Charge.	Escoge a 2 unidades amigas dentro de 12" y  moverán +2" la próxima vez que avancen, o +4"la próxima vez que se corran/carguen.
 Vile Swarm (2):	Enjambre Vil (2):
 Animalistic (3):	Animalístico (3):
 Target 2 enemy units within 18" get -2 to hit rolls next time they fight in melee.	Escoge a 2 unidades enemigas dentro de 18"y obtienen -2 para tiradas de impactar la próxima vez que luchen en cuerpo a cuerpo.
@@ -339,7 +339,7 @@ Impact(1)	Impacto (1)
 Reap:	Cosechar:
 Undead:	No-Muerto:
 Dread (1):	Aterrar (1):
-Target 2 enemy units within 18" move -1" next time they Advance, or -2" next time they Charge/Rush.	Escoge 2 unidades enemigas dentro de 18" y moverán -1" la próxima vez que avancen, o -2"la próxima vez que carguen/se apresuren.
+Target 2 enemy units within 18" move -1" next time they Advance, or -2" next time they Charge/Rush.	Escoge 2 unidades enemigas dentro de 18" y moverán -1" la próxima vez que avancen, o -2"la próxima vez que corran/cargen.
 Terror (1):	Terror (1):
 Target enemy unit within 18” takes 1 hit with Blast(3).	La unidad enemiga objetivo dentro de 18" recibe 1 golpe con Explosión(3).
 Grief (2):	Sufrimiento (2):
@@ -382,3 +382,209 @@ Spectral Wind (1):	Viento espectral (1):
 Dance of Death (2):	Baile de la Muerte (2):
 Deadly Gaze (2):	Mirada Letal (2):
 Invocation (3):	Invocación (3):
+Pick one model in this unit to have Caster(X), where X is the total number of models with this rule in this unit. If the model is killed, pick another to be the new caster, and transfer all spell tokens to it. The caster loses all unspent spell tokens at the end of the round.	Elija un modelo en esta unidad para tener Caster(X), donde X es el número total de modelos con esta regla en esta unidad. Si el modelo muere, elige a otro para que sea el nuevo lanzador y transfiérele todas las fichas de hechizos. El lanzador pierde todas las fichas de hechizo no gastadas al final de la ronda.
+- 60pts	60PTS
+Hit & Run	Hit & Run
+Predator	Depredador
+Fear(3)	Miedo(3)
+- 110pts	- 110pts
+- 190pts	- 190pts
+Hit & Run:	Hit & Run:
+This model and its unit may move by up to 3" after shooting.	Este modelo y su unidad pueden moverse hasta 3" después de disparar.
+Predator:	Depredador
+For each unmodified roll of 6 to hit when attacking, this model may roll +1 attack with that weapon. This rule doesn’t apply to newly generated attacks.	Por cada tirada no modificada de 6 para golpear al atacar, este modelo puede tirar +1 de ataque con esa arma. Esta regla no se aplica a los ataques recién generados.
+Takedown	Asesinar
+Takedown:	Asesinar:
+Once per game, when this model attacks in melee, you may pick one model in the unit as its target, and make 1 attack at Quality 2+ with AP(1) and Deadly(3), which is resolved as if it's a unit of 1.	Una vez por juego, cuando este modelo ataca en cuerpo a cuerpo, puedes elegir un modelo en la unidad como su objetivo y realizar 1 ataque en Calidad 2+ con AP(1) y Mortal(3), que se resuelve como si fuera una unidad de 1.
+March Order	Orden de Marchar
+March Order:	Orden de Marchar:
+- 150pts	- 150pts
+Pheromones	Feromonas
+Pheromones:	Feromonas
+Art of War	Sik Trix BMX
+1x Shield Drone	1x Shield Drone
+Indirect	Indirecta
+1x Targeting Array	1x matriz de selección de objetivos
+Art of War:	Sik Trix BMX
+Shield Drone:	Shield Drone:
+Targeting Array:	Matriz de selección de objetivos:
+Once per this unit's activation, before attacking, pick one enemy unit within 18". Next time a friendly unit shoots at it, it gets +1 to hit.	Una vez por activación de esta unidad, antes de atacar, elige una unidad enemiga dentro de 18". La próxima vez que una unidad amiga le dispare, obtendrá +1 para golpear.
+Carnivore	Carnívoro
+Stinger Bombs	Bombas Stinger
+Battle Call	Llamada de batalla
+Bounding	Delimitación:
+Battle Call:	Llamada de batalla:
+Whilst inside terrain, this model and its unit get +1 to hit rolls in melee.	Mientras está dentro del terreno, este modelo y su unidad obtienen +1 para golpear en cuerpo a cuerpo.
+Bounding:	Delimitación:
+Carnivore:	Carnívoro:
+Gets +1 to hit in melee.	Obtiene +1 para golpear en cuerpo a cuerpo.
+Stinger Bombs:	Bombas Stinger:
+Once per activation, when this model moves over enemy units, pick one of them and roll one die. On a roll of 6+ it takes 1 hit.	Una vez por activación, cuando este modelo se mueva sobre las unidades enemigas, elige una de ellas y tira un dado. En una tirada de 6+ reciben 1 golpe.
+Teleport	Teletransportar
+Vicious Attack	Ataque Feroz
+Teleport:	Teletransportar:
+Once per activation, before attacking, place this model anywhere within 6" of its position.	Una vez por activación, antes de atacar, coloque este modelo en cualquier lugar dentro de 6" de su posición.
+Vicious Attack:	Ataque Feroz:
+This model and its unit get Furious. If they already had Furious, they get extra hits from Furious on unmodified rolls of 5-6 to hit instead.	Este modelo y su unidad se ponen furiosos. Si ya tenían Furious, reciben golpes adicionales de furioso en tiradas no modificadas de 5-6 para golpear en su lugar.
+Dark Assault:	Asalto Oscuro:
+This model counts as having Ambush and may be deployed on any round.	Este modelo cuenta como si tuviese emboscada y puede desplegarse en cualquier ronda.
+Grim:	Sombrío:
+Indirect:	Indirecto:
+Gets -1 to hit rolls when shooting after moving. May target enemies that are not in line of sight as if in line of sight, and ignores cover from sight obstructions.	Obtiene -1 a las tiradas de impactar al disparar después de moverse. Puede disparar a enemigos que no están en su línea de visión como si estuvieran en la línea de visión, e ignora la cobertura por no ver completamente a la unidad.
+Medical Training:	Entrenamiento Medico:
+Grim	Sombrío
+1x Medical Training	Entrenamiento Medico
+Dark Assault	Asalto Oscuro
+Chosen Veteran:	Veterano elegido:
+Gets +1 to hit in melee and shooting.	Obtiene +1 para golpear en cuerpo a cuerpo y disparar.
+War Chant:	Cántico de guerra:
+Chosen Veteran	Veterano elegido
+War Chant	Cántico de guerra
+Whilst this model and its unit are inside terrain, they get +1 to hit rolls in melee.	Mientras este modelo y su unidad están dentro de piezas de terreno, reciben +1 a sus tiradas de impactar en melee.
+0	0
+Dark Master Brother	Maestro Bibliotecario [1] - 185pts
+Dark Prime Brothers	Hermanos Oscuros [5] - 225pts
+- 225pts	- 225pts
+Dark Destroyers	Exterminadores Oscuros [3] - 380pts
+- 380pts	- 380pts
+Dark Brother Bikers	Motocicletas Oscuras [3] - 415pts
+- 415pts	- 415pts
+Dark Heavy Exo-Suit	Caminante Oscuro [1] - 295pts
+- 295pts	- 295pts
+Special Rules	Reglas especiales
+Dark Brothers Army Spells	Hechizos de Hermanos Oscuros
+Blurred Sight (1):	Visión borrosa (1):
+Psychic Terror (1):	Terror psíquico (1):
+Cursed Ground (2):	Terreno maldito (2):
+Cerebral Trauma (2):	Trauma cerebral (2):
+Time Passage (3):	Paso de tiempo (3):
+Lightning Fog (3):	Niebla Relámpago (3):
+Dark Prime Brothers Army Spells	Hechizos de Hermanos Oscuros Prime
+Ultra Veteran Leader [1] - 220pts	Líder ultra veterano [1] - 220pts
+Veterans [5] - 260pts	Veteranos [5] - 260pts
+Infiltrators [10] - 260pts	Infiltradores [10] - 260pts
+Elite Raider [1] - 95pts	Raider de élite [1] - 95pts
+Witches [5] - 155pts	Brujas [5] - 155pts
+Jetbike Riders [3] - 245pts	Jetbike Riders [3] - 245pts
+Light Skimmer [1] - 255pts	Asaltador ligero [1] - 255pts
+Change Champion [1] - 100pts	Campeón del Cambio[1] - 100pts
+Change Birdmen [10] - 145pts	Change Birdmen [10] - 145pts
+Change Brothers [5] - 245pts	Change Brothers [5] - 245pts
+Change Support [3] - 260pts	Soporte del Cambio [3] - 260pts
+Change Disciples Army Spells	Hechizos del ejército de los discípulos del cambio
+Elite Protector [1] - 115pts	Elite Protector [1] - 115pts
+Protectors [5] - 145pts	Protectores [5] - 145pts
+Revenants [5] - 230pts	Revenants [5] - 230pts
+Combat Walker [1] - 260pts	Combat Walker [1] - 260pts
+High Elf Fleets Army Spells	Hechizos del Ejército de Flotas de Altos Elfos
+Veterans [10] - 255pts	Veteranos [10] - 255pts
+Storm Leader [1] - 105pts	Storm Leader [1] - 105pts
+Storm Troopers [5] - 155pts	Storm Troopers [5] - 155pts
+Armored Truck [1] - 235pts	Camión blindado [1] - 235pts
+Master Destroyer [1] - 250pts	Master Destroyer [1] - 250pts
+Pathfinders [10] - 240pts	Pathfinders [10] - 240pts
+Heavy Exo-Suit [1] - 260pts	Exo-traje pesado [1] - 260pts
+War Destroyer Champion [1] - 245pts	War Destroyer Champion [1] - 245 puntos
+War Brothers [5] - 245pts	Hermanos de guerra [5] - 245pts
+Blood Heavy Exo-Suit [1] - 260pts	Exo-traje pesado de sangre [1] - 260pts
+Warriors [10] - 250pts	Guerreros [10] - 250pts
+Robot Lord [1] - 125pts	Señor de los robots [1] - 125pts
+Snipers [3] - 120pts	Francotiradores [3] - 120pts
+Tripod Walker [1] - 255pts	Trípode Walker [1] - 255pts
+1	1
+Volcanic Berserkers [5] - 115pts	Volcanic Berserkers [5] - 115pts
+Magma Champion [1] - 70pts	Magma Champion [1] - 70pts
+Berserker Guards [5] - 95pts	Berserker Guards [5] - 95 puntos
+Fire Elementals [3] - 185pts	Elementales de fuego [3] - 185pts
+Magma Drake [1] - 285pts	Magma Drake [1] - 285pts
+Goblin Leader [1] - 80pts	Goblin Leader [1] - 80pts
+Shaman Circle [5] - 180pts	Círculo de chamanes [5] - 180pts
+Trolls [3] - 215pts	Trolls [3] - 215pts
+Beast Riders [10] - 260pts	Jinetes de bestias [10] - 260pts
+Goblins Army Spells	Hechizos del ejército de duendes
+Eternal Lord [1] - 260pts	Señor Eterno [1] - 260pts
+Wardens [6] - 260pts	Guardianes [6] - 260pts
+Eternals [3] - 220pts	Eternos [3] - 220pts
+Havoc Master [1] - 95pts	Havoc Master [1] - 95 puntos
+Warriors [10] - 165pts	Guerreros [10] - 165pts
+Daemonic Guard Knights [3] - 205pts	Caballeros de la Guardia Demoníaca [3] - 205pts
+Slaughter Beast [1] - 275pts	Slaughter Beast [1] - 275pts
+Havoc Warriors Army Spells	Hechizos del ejército de Havoc Warriors
+Ndoli Elites [10] - 260pts	Ndoli Elites [10] - 260 puntos
+Waheni Hunt Master [1] - 90pts	Waheni Hunt Master [1] - 90 puntos
+Waheni Raiders [10] - 140pts	Waheni Raiders [10] - 140 puntos
+Kemba Brute Giant [1] - 260pts	Kemba Brute Giant [1] - 260 puntos
+Beastmen Army Spells	Hechizos del ejército de Hombres Bestia
+Wraiths [10] - 240pts	Espectros [10] - 240pts
+2x Ghost Swarms [3] - 135pts	2x Ghost Swarms [3] - 135pts
+Grim Leader [1] - 135pts	Grim Leader [1] - 135pts
+Dread Knights [5] - 105pts	Dread Knights [5] - 105 puntos
+Ghostly Undead Army Spells	Hechizos fantasmales del ejército de no-muertos
+Brute Orc Boss [1] - 130pts	Brute Orc Boss [1] - 130pts
+Orc Boss [1] - 100pts	Jefe Orco [1] - 100pts
+Brute Orcs [3] - 160pts	Brute Orcs [3] - 160pts
+Giant Boar Rider [1] - 200pts	Jinete de jabalí gigante [1] - 200pts
+Orcs Army Spells	Hechizos del ejército de orcos
+Vampire Master [1] - 240pts	Vampire Master [1] - 240pts
+Ghoul Champion [1] - 90pts	Ghoul Champion [1] - 90 puntos
+Ghouls [10] - 170pts	Ghouls [10] - 170pts
+Werewolves [3] - 235pts	Hombres lobo [3] - 235pts
+Vampiric Undead Army Spells	Hechizos vampíricos del ejército de muertos vivientes
+Gecko Champion [1] - 60pts	Gecko Champion [1] - 60pts
+Geckos [10] - 155pts	Geckos [10] - 155pts
+Saurian Veteran [1] - 105pts	Saurian Veteran [1] - 105pts
+Saurian Guardians [5] - 110pts	Guardianes saurios [5] - 110pts
+Gators [3] - 190pts	Gators [3] - 190pts
+Dragon Lizard [1] - 130pts	Lagarto dragón [1] - 130pts
+Phoenix Warriors [10] - 205pts	Phoenix Warriors [10] - 205pts
+High Noble [1] - 135pts	Alto Noble [1] - 135pts
+Lion Warriors [5] - 105pts	Guerreros leones [5] - 105pts
+Archers [10] - 170pts	Arqueros [10] - 170pts
+Reaver Cavalry [5] - 135pts	Caballería Reaver [5] - 135pts
+High Elves Army Spells	Hechizos del ejército de Altos Elfos
+Modesty (1):	Modestia (1):
+Drain (1):	<g id="1">Drenaje 1</g>
+Protection (2):	Protección 2:
+Quench (2):	Apagar (2):
+Magical Surge (3):	Sobretensión mágica (3):
+Tempest (3):	Tempestad (3):
+Black Guardians [10] - 215pts	Guardianes negros [10] - 215pts
+Dark Noble [1] - 105pts	Dark Noble [1] - 105pts
+Dark Shooters [5] - 155pts	Tiradores oscuros [5] - 155pts
+Raptor Knights [10] - 260pts	Raptor Knights [10] - 260 puntos
+Battle Master [1] - 105pts	Battle Master [1] - 105 puntos
+Infantrymen [10] - 115pts	Infantería [10] - 115pts
+Elite Weapon Masters [10] - 155pts	Maestros de armas de élite [10] - 155pts
+Marksmen [10] - 160pts	Tiradores [10] - 160pts
+Gryph Riders [3] - 215pts	Gryph Riders [3] - 215pts
+Prime Warrior [1] - 150pts	Prime Warrior [1] - 150pts
+Shooter Grunts [10] - 110pts	Gruñidos de tirador [10] - 110pts
+Hive Guardians [3] - 260pts	Guardianes de la colmena [3] - 260pts
+Shadow Hunter [1] - 230pts	Cazador de sombras [1] - 230pts
+Alien Hives Army Spells	Hechizos del ejército de colmenas alienígenas
+Psychic Blast (1):	Explosión psíquica (1):
+Animate Flora (2):	Flora animada (2):
+Shriek (2):	Grito (2):
+Infuse Life (3):	Infundir Vida (3):
+Overwhelm (3):	Abrumador (3):
+Target enemy model within 12" takes 3 hits with AP(4).	El modelo enemigo objetivo dentro de 12" recibe 3 golpes con AP(4).
+Dynasty Leader [1] - 100pts	Dynasty Leader [1] - 100pts
+Warriors [5] - 145pts	Guerreros [5] - 145pts
+Scouts [10] - 245pts	Exploradores [10] - 245pts
+ONIs [3] - 260pts	ONIS [3] - 260pts
+Elites [10] - 260pts	Elites [10] - 260pts
+Elite Veteran [1] - 90pts	Veterano de élite [1] - 90 puntos
+Vultures [5] - 170pts	Buitres [5] - 170pts
+Beast Gunners [3] - 205pts	Beast Gunners [3] - 205pts
+Gecko Snipers [6] - 240pts	Francotiradores Gecko [6] - 240pts
+Deinonychus Riders [10] - 240pts	Deinonychus Riders [10] - 240pts
+Gecko Champion [1] - 70pts	Gecko Champion [1] - 70pts
+Assault Grunts [10] - 155pts	Assault Grunts [10] - 155pts
+No Retreat	Sin retirada
+Soul-Snatchers [5] - 185pts	Soul-Snatchers [5] - 185pts
+Soul-Snatchers [5] - 170pts	Soul-Snatchers [5] - 170pts
+Synapse Tyrant [1] - 230pts	Synapse Tyrant [1] - 230pts
+Hive Warriors [6] - 290pts	Hive Warriors [6] - 290pts
+Shadow Leapers [3] - 245pts	Shadow Leapers [3] - 245pts
+Shadow Hunter [1] - 225pts	Shadow Hunter [1] - 225pts
+No Retreat:	Sin retirada:
