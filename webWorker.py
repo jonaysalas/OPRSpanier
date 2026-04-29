@@ -7,7 +7,7 @@ from time import sleep
 import base64
 from deep_translator import MyMemoryTranslator
 
-print("V1.0")
+print("V1.1")
 manualTranslator = {}
 f = open('manualTranslator.txt', 'r', encoding='utf-8')
 for line in f.readlines():
@@ -19,7 +19,7 @@ f.close()
 prevTranslator = {}
 f = open('translatorHistoryv341.txt', 'r', encoding='utf-8')
 for line in f.readlines():
-    if "\t\n" in data:
+    if "\t\n" in line:
         continue
     print(line)
     data = line.split('\t')
@@ -33,7 +33,10 @@ options.add_argument('-headless')
 driver = webdriver.Firefox(options)
 driver.get("https://army-forge.onepagerules.com/")
 sleep(3)
-driver.find_element(By.XPATH, "//div[@class='MuiStack-root mui-u4p24i']/button[1]").click()
+try:
+    driver.find_element(By.XPATH, "//div[@class='MuiStack-root mui-u4p24i']/button[1]").click()
+except:
+    print("No needed to close the dialog")
 f = open('ListLinks.txt','r')
 
 for lin in f.readlines():
@@ -49,14 +52,28 @@ for lin in f.readlines():
                 orig = i.text
                 if orig == None: continue
                 elif orig.strip()[-1] == '+': continue
-                if orig.strip() in list(manualTranslator.keys()):
-                    trans = orig.replace(orig.strip(), manualTranslator[orig.strip()])
-                elif orig.strip() in list(prevTranslator.keys()):
-                    trans = orig.replace(orig.strip(), prevTranslator[orig.strip()])
+                #If it is a name of the unit, only translate the name
+                if '[' in orig and 'pts' in orig: #is a name
+                    justName = orig.split('[')[0].strip()
+                    if justName in list(manualTranslator.keys()):
+                        trad = manualTranslator[justName]
+                    elif orig.strip() in list(prevTranslator.keys()):
+                        trad = prevTranslator[justName]
+                    else:
+                        trad = translator.translate(justName)
+                        if len(trad) > 1:
+                            prevTranslator[justName] = trad
+                    trans = orig.replace(justName, trad)
+                    
                 else:
-                    trans = orig.replace(orig.strip(), translator.translate(orig.strip()))
-                    if len(trans) > 1:
-                        prevTranslator[orig.strip()] = trans
+                    if orig.strip() in list(manualTranslator.keys()):
+                        trans = orig.replace(orig.strip(), manualTranslator[orig.strip()])
+                    elif orig.strip() in list(prevTranslator.keys()):
+                        trans = orig.replace(orig.strip(), prevTranslator[orig.strip()])
+                    else:
+                        trans = orig.replace(orig.strip(), translator.translate(orig.strip()))
+                        if len(trans) > 1:
+                            prevTranslator[orig.strip()] = trans
 
                 driver.execute_script("arguments[0].innerText = '{}'".format(trans), i)
             except Exception as e:
