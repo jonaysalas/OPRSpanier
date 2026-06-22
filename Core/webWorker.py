@@ -8,30 +8,18 @@ from time import sleep
 import base64
 from deep_translator import MyMemoryTranslator
 import os
+from Core.GeneralMethods import LoadATranslatorDictionary, SaveATranslatorDictionary
 
 class WebWorker:
 
     def __init__(self, prevTranslations, manualTranslations = None):
         self.availableBrowsers = ['firefox', 'chrome']
-        self.Translations = {}
         self.prevTranslationsLink = prevTranslations
-        f = open(prevTranslations, 'r', encoding='utf-8')
-        for line in f.readlines():
-            if "\t\n" in line:
-                continue
-            data = line.split('\t')
-            if data[1].strip()[-2:] == "::": continue
-            self.Translations[data[0]] = data[1].strip()
-        f.close()
+        self.Translations = LoadATranslatorDictionary(prevTranslations)
 
         self.ManualTranslations = {}
         if manualTranslations != None:
-            f = open(manualTranslations, 'r', encoding='utf-8')
-            for line in f.readlines():
-                data = line.split('\t')
-                self.ManualTranslations[data[0]] = data[1].strip()
-                self.ManualTranslations[data[0]+":"] = data[1].strip()+":"
-            f.close()
+            self.ManualTranslations = LoadATranslatorDictionary(manualTranslations)
 
         self.Translator = MyMemoryTranslator(source='english', target='spanish')
     
@@ -88,7 +76,7 @@ class WebWorker:
                         justName = orig.split('[')[0].strip() #Get only the name
                         if justName in list(self.ManualTranslations.keys()): #This name was translated Manually
                             trad = self.ManualTranslations[justName]
-                        elif orig.strip() in list(self.Translations.keys()): #This name was translated before
+                        elif justName in list(self.Translations.keys()): #This name was translated before
                             trad = self.Translations[justName]
                         else: #Is the first time we translate this name
                             trad = self.Translator.translate(justName)
@@ -100,7 +88,7 @@ class WebWorker:
                     else: #Other cases
                         if orig.strip() in list(self.ManualTranslations.keys()): #This phrase was translated manually
                             trans = orig.replace(orig.strip(), self.ManualTranslations[orig.strip()])
-                        if orig.strip() in list(self.Translations.keys()): #This phrase was already translated
+                        elif orig.strip() in list(self.Translations.keys()): #This phrase was already translated
                             trans = orig.replace(orig.strip(), self.Translations[orig.strip()])
                         else: #Is the first time we translate this phrase
                             trans = orig.replace(orig.strip(), self.Translator.translate(orig.strip()))
@@ -125,31 +113,17 @@ class WebWorker:
             return str(e)
 
     def CheckNewTranslations(self):
-        oldTranlator = {}
-        f = open(self.prevTranslationsLink, 'r', encoding='utf-8')
-        for line in f.readlines():
-            if "\t\n" in line:
-                continue
-            data = line.split('\t')
-            if data[1].strip()[-2:] == "::": continue
-            oldTranlator[data[0]] = data[1].strip()
-        f.close()
+        oldTranslator = LoadATranslatorDictionary(self.prevTranslationsLink)
 
         newTranslations = {}
         for key in list(self.Translations.keys()):
-            if key not in list(oldTranlator.keys()): #is a new translation
+            if key not in list(oldTranslator.keys()) and key not in list(self.ManualTranslations.keys()): #is a new translation
                 newTranslations[key] = self.Translations[key]
             else: #is an old translation
                 None
         
-        del oldTranlator
+        del oldTranslator
         return newTranslations
 
     def SaveTranslations(self):
-        f = open(self.prevTranslationsLink, 'w', encoding='utf-8')
-        txt = ""
-        for key in list(self.Translations.keys()):
-            if self.Translations[key].strip() != "":
-                txt += "{}\t{}\n".format(key, self.Translations[key])
-        f.write(txt[:-1]) #we remove the last '\n'
-        f.close()
+        SaveATranslatorDictionary(self.Translations, self.prevTranslationsLink)
