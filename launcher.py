@@ -1,8 +1,9 @@
-import wx
-from GUI.MainFrame import MainFrame
+import eel
 
 if __name__ == '__main__':
-    app = wx.App()
-    frame = MainFrame(None)
-    frame.Show()
-    app.MainLoop()
+    eel.init("webGUI")
+    from webGUI.eel import scripts
+    from Core.Configuration import LoadConfiguration
+
+    LoadConfiguration()
+    eel.start("home.html")
