@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="spanish">
+    <header>
+        <script type="text/javascript" src="/eel.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </header>
+    <body>
+        <h1>OPR Spainer</h1>
+        <ul>
+            <li class="navElement">
+                Config
+                <div class="dropdown">
+                    <ul>
+                        <li onclick="SelectManualConfigPath()">Seleccionar Traducciones Manuales</li>
+                        <li id="VisibilityStatus" onclick="ToongleVisibility()">Ocultar Navegador: Off</li>
+                        <li onclick="SaveConfiguration()">Guardar Configuración</li>
+                    </ul>
+                </div>
+            </li>
+            <li class="navElement">
+                Traductores
+                <div class="dropdown">
+                    <ul>
+                        <li><a href="gestiontraductor.html?tipo=historico">Editar historial de Traducciones</a></li>
+                        <li onclick="ResetTraductorHistorico()"><a>Resetear historial de traducciones</a></li>
+                        <li onclick="CreateTraductorManual()"><a>Crear Traductor Manual</a></li>
+                        <li><a href="gestiontraductor.html?tipo=manual">Editar Traductor Manual</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <form id="FormGenerarListas">
+            <div>
+                <fieldset>
+                    <input type="radio" id="radioURL" name="selectMode" value="TraducirUnaLista" checked="checked"/>
+                    <legend for="radioURL">Traducir una lista</legend>
+                    <input type="url" id="selectorUrl" name="listaUrl"/><br>
+                </fieldset>
+                <fieldset>
+                    <input type="radio" id="radioFichero" name="selectMode" value="TraducirUnFichero"/>
+                    <legend for="radioFichero">Traducir un fichero</legend>
+                    <input type="button" id="buttonFicheroListas" onclick="SelectFicheroPath()" value="Selecciona un fichero"/>
+                        <label id ="labelFicheroListas" for="buttonFicheroListas">No se ha seleccionado ningún fichero</label><br>
+                </fieldset>
+            </div>
+            <fieldset id="SelectorBrowser">
+                <legend>Información para generar</legend>
+                <label>Selecciona qué buscador usar: </label>
+                <select name="Browser">
+                    <option value="FireFox">FireFox</option>
+                    <option value="Edge">Edge</option>
+                    <option value="Chrome">Chrome</option>
+                </select><br>
+                <label>Guardar en: </label>
+                <input type="button" id="buttonCarpetaPdfs" onclick="SelectCarpetaPDFPath()" value="Selecciona una carpeta"/>
+                        <label id ="labelCarpetaPdfs" for="buttonCarpetaPdfs">No se ha seleccionado ninguna ruta</label><br>
+            </div>
+            <div>
+                <button type="button" id="ButtonGenerar" onclick="GenerarListas()">Generar listas</button>
+            </div>
+        </form>
+    </body>
+    <footer>
+        <script type="text/javascript" src="js/home.js"></script>
+    </footer>
+</html>
