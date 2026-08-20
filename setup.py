@@ -1,31 +1,56 @@
 import shutil
 import os
-from cx_Freeze import setup
+import subprocess
+from Core.Configuration import GetToolVersion
 
-
+## Configurable Data
 exePath = "./EXECUTABLE"
+folders2copy = ['config', 'webGUI']
 
-if not os.path.exists(exePath):
-    os.mkdir(exePath)
+## End of Configurable Data
 
+command = "pyinstaller "
+command += "--distpath {} -y ".format(exePath)
+command += "-F " #Onefile
 
-# Dependencies are automatically detected, but they might need fine-tuning.
-build_exe_options = {
-    "excludes": [""],
-    "zip_include_packages": ["encodings", "PySide6", "shiboken6"],
-    'includes': ["selenium", "deep_translator", 'pycparser', 'trio', 'trio_websocket', 'urllib3'],
-    "include_files": [('config/translation/Translations.txt', 'config/translation/Translations.txt'), 
-                      ('listLinks.txt', 'listLinks.txt'),
-                      ('config/translation/manualTranslator.txt', 'config/translation/ManualTranslator.txt')],
-    "build_exe":"OPRSpainer"
-}
+res = input("Should the executable show its console? (Y/N): ")
+if res.lower() == "y":
+    command += '-c '
+else:
+    command += '-w '
 
-setup(
-    name="OPRSpainer",
-    version="0.5",
-    description="Description of the tool",
-    options={"build_exe": build_exe_options},
-    executables=[{"script": "launcher.py", "base": None}],
-)
-        
+command += '--collect-data selenium '
+
+if os.path.exists(exePath):
+    shutil.rmtree(exePath)
+#Edit the file version
+shutil.copy("file_version_info.txt", "fvi.txt")
+
+f = open("fvi.txt",'r')
+txt = f.read()
+f.close()
+
+#Imports the Selenium
+command += '--hidden-import selenium.webdriver.chrome.webdriver '
+command += '--hidden-import selenium.webdriver.edge.webdriver '
+command += '--hidden-import selenium.webdriver.firefox.webdriver '
+
+f = open("fvi.txt",'w')
+f.write(txt.replace("#VERSION#",GetToolVersion()))
+f.close()
+
+command += "--version-file fvi.txt "
+command += "launcher.py"
+
+subprocess.run(command)
+
+#Remove the unnecesary files:
+os.remove("fvi.txt")    
+shutil.rmtree("build")
+
+#Copy the folders to the executable
+for folder in folders2copy:
+    if os.path.exists(folder):
+        shutil.copytree(folder, os.path.join(exePath, folder))
+
 print('Finished')
