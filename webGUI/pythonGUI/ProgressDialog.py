@@ -1,7 +1,8 @@
 import tkinter
 from tkinter import ttk
-from threading import Thread
+from threading import Thread, current_thread
 from queue import Queue
+from time import sleep
 
 
 class ProgressDialog:
@@ -19,13 +20,14 @@ class ProgressDialog:
 
     def _createDialog(self, message, title, numberSteps):
         self.main_window = tkinter.Tk()
+        self.main_window.attributes("-topmost", True)
         if title == "":
             title = message
         self.main_window.title(title)
-        self.label = ttk.Label(text=message)
+        self.label = ttk.Label(text=message, master=self.main_window)
         self.label.place(x=30, y=20)
         self.numberSteps = numberSteps
-        self.progressbar = ttk.Progressbar(maximum=numberSteps)
+        self.progressbar = ttk.Progressbar(maximum=numberSteps, master=self.main_window)
         self.progressbar.place(x=30, y=50, width=200)
         self.main_window.geometry("300x100")
         self.main_window.attributes("-topmost", True)
@@ -48,7 +50,8 @@ class ProgressDialog:
 
         if self.lastStep >= self.numberSteps:
             self.main_window.quit()
-        self.main_window.after(1000, self._checkQueue)
+        else:
+            self.main_window.after(1000, self._checkQueue)
     
     def Update(self, step, new_msg = ""):
         if self.th.is_alive():
