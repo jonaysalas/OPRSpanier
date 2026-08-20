@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<title>OPR Spainer - Main Page</title>
+<html lang="spanish">
+    <header>
+        <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <script type="text/javascript" src="/eel.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/opr.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </header>
+    <body class="body">
+        <div class="navbar w-nav">
+            <ul class="container narrow nav-container">
+                <li class="navElement nav-link dropdown-toggle w-dropdown-toggle">
+                    Config
+                    <div class="dropdown2">
+                        <ul>
+                            <li class="dropdown__link w-dropdown-link" tabindex="0" onclick="SelectManualConfigPath()">Seleccionar Traducciones Manuales</li>
+                            <li class="dropdown__link w-dropdown-link" tabindex="0" id="VisibilityStatus" onclick="ToongleVisibility()">Ocultar Navegador: Off</li>
+                            <li class="dropdown__link w-dropdown-link" tabindex="0" onclick="SaveConfiguration()">Guardar Configuración</li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="navElement nav-link dropdown-toggle w-dropdown-toggle">
+                    Traductores
+                    <div class="dropdown2">
+                        <ul>
+                            <li><a class="dropdown__link w-dropdown-link" href="gestiontraductor.html?tipo=historico">Editar historial de Traducciones</a></li>
+                            <li onclick="ResetTraductorHistorico()"><a class="dropdown__link w-dropdown-link">Resetear historial de traducciones</a></li>
+                            <li onclick="CreateTraductorManual()"><a class="dropdown__link w-dropdown-link">Crear Traductor Manual</a></li>
+                            <li><a class="dropdown__link w-dropdown-link" href="gestiontraductor.html?tipo=manual">Editar Traductor Manual</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <h1>OPR Spainer</h1>
+        <div class="page-content-container">
+            <form id="FormGenerarListas">
+                <div>
+                    <fieldset class="fieldset">
+                        <input type="radio" id="radioURL" name="selectMode" value="TraducirUnaLista" checked="checked"/>
+                        <legend for="radioURL">Traducir una lista</legend>
+                        <input type="url" id="selectorUrl" name="listaUrl"/><br>
+                    </fieldset>
+                    <fieldset>
+                        <input type="radio" id="radioFichero" name="selectMode" value="TraducirUnFichero"/>
+                        <legend for="radioFichero">Traducir un fichero</legend>
+                        <input type="button" id="buttonFicheroListas" class="w-button" onclick="SelectFicheroPath()" value="Selecciona un fichero"/>
+                            <label id ="labelFicheroListas" for="buttonFicheroListas">No se ha seleccionado ningún fichero</label><br>
+                    </fieldset>
+                </div>
+                <fieldset id="SelectorBrowser" >
+                    <div >
+                        <h2>Información para generar</h2>
+                        <p>Selecciona qué buscador usar: </p>
+                        <select name="Browser" >
+                            <option value="FireFox">FireFox</option>
+                            <option value="Edge">Edge</option>
+                            <option value="Chrome">Chrome</option>
+                        </select>
+                    </div>
+                    <div >
+                        <p>Guardar en: </p>
+                        <input type="button" class="w-button" id="buttonCarpetaPdfs" onclick="SelectCarpetaPDFPath()" value="Selecciona una carpeta"/>
+                                <label id ="labelCarpetaPdfs" for="buttonCarpetaPdfs">No se ha seleccionado ninguna ruta</label>
+                    </div>
+                </fieldset>
+                <div >
+                    <button type="button" class="button-1" id="ButtonGenerar" style="margin-left:10px;" onclick="GenerarListas()">Generar listas</button>
+                </div>
+            </form>
+        </div>
+    </body>
+    <footer id="footer">
+        <script type="text/javascript" src="js/home.js"></script>
+    </footer>
+</html>
