@@ -2,11 +2,10 @@
 .navElement {
     position: relative;
     display: inline-block;
-    background-color: #91c6f7;
 }
 
 /* Style the dropdown menu */
-.dropdown {
+.dropdown2 {
     display: none;
     position: absolute;
     background-color: #ffffff;
@@ -16,18 +15,18 @@
 }
 
 /* Style the dropdown links */
-.dropdown ul li {
+.dropdown2 ul li {
     padding: 10px;
     text-align: left;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown ul li:hover {
+.dropdown2 ul li:hover {
     background-color: #ddd;
 }
 
 /* Show the dropdown menu on hover */
-.navElement:hover .dropdown {
+.navElement:hover .dropdown2 {
     display: block;
 }
 
@@ -49,5 +48,12 @@
 
 .button{
     margin:5px;
+}
+
+fieldset{
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 1%;
 }
 

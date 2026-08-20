@@ -73,7 +73,7 @@ def GenerateFicheros(dictForm):
     err = worker.CreateWebDriver(dictForm['Browser'], Configuration.GetBrowserVisible())
     if err != "":
         ErrorDialog(err)
-        progress.destroy()
+        progress.Destroy()
         worker.DestroyWebDriver()
         return None
 
